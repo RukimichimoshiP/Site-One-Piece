@@ -79,7 +79,7 @@ main div.conteudo i.logo{
 
 .botoes .botao{
     border: 0;
-    background: none;
+    background: #000;
     cursor: pointer;
     border-radius: 50%;
 }
